@@ -1,93 +1,123 @@
-👋 Hi, I'm Aditya Yadav
+<h1 align="center">👋 Hi, I'm Aditya Yadav</h1>
 
-🎓 B.Tech CSE (Data Science) Student
-💻 Aspiring Software Engineer | Cybersecurity Enthusiast
-📍 India
+<h3 align="center">
+🎓 B.Tech CSE (Data Science) Student • 💻 Aspiring Software Engineer • 🔐 Cybersecurity Enthusiast
+</h3>
 
-🚀 About Me
+<p align="center">📍 India</p>
 
-🎓 Pursuing B.Tech in Computer Science & Engineering (Data Science)
+---
 
-🔐 Interested in Cybersecurity, Secure Systems, and Digital Protection
+<h2>🚀 About Me</h2>
 
-💡 Passionate about building real-world projects and improving problem-solving skills
+<ul>
+  <li>🎓 Pursuing <b>B.Tech in Computer Science & Engineering (Data Science)</b></li>
+  <li>🔐 Interested in <b>Cybersecurity, Secure Systems & Digital Protection</b></li>
+  <li>💡 Passionate about <b>real-world projects & problem solving</b></li>
+  <li>🧠 Currently focusing on:
+    <ul>
+      <li>Data Structures & Algorithms</li>
+      <li>DBMS</li>
+      <li>System Design (Beginner)</li>
+    </ul>
+  </li>
+</ul>
 
-🧠 Currently strengthening fundamentals in:
+---
 
-Data Structures & Algorithms
+<h2>🛠️ Skills & Technologies</h2>
 
-DBMS
+<h3>💻 Programming</h3>
+<p>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+</p>
 
-System Design (beginner level)
+<h3>📊 Core Subjects</h3>
+<p>
+  <img src="https://img.shields.io/badge/DSA-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20System-lightgrey?style=for-the-badge"/>
+</p>
 
-🛠️ Skills & Technologies
-👨‍💻 Programming
+<h3>🔐 Cybersecurity</h3>
+<p>
+  <img src="https://img.shields.io/badge/2FA-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Security-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cyber%20Awareness-blue?style=for-the-badge"/>
+</p>
 
-C++
+<h3>🧰 Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
+</p>
 
-Python (basic/intermediate)
+---
 
-📊 Core Subjects
+<h2>📂 Projects</h2>
 
-Data Structures & Algorithms
+<h3>🔎 Crime Record Management System</h3>
+<ul>
+  <li>Designed structured <b>ER Diagram</b></li>
+  <li>Implemented <b>Relational Algebra & Calculus</b></li>
+  <li>Focused on <b>database normalization</b></li>
+</ul>
 
-DBMS (ER Diagrams, Relational Algebra, SQL)
+---
 
-Operating Systems (basic)
+<h2>📈 Currently Working On</h2>
 
-🔐 Cybersecurity
+<ul>
+  <li>🚀 Advanced Final Year Projects</li>
+  <li>📚 DSA for placements</li>
+  <li>🔐 Cybersecurity concepts</li>
+</ul>
 
-Two-Factor Authentication (2FA)
+---
 
-Data Breaches & Security Awareness
+<h2>🎯 Goals</h2>
 
-Basic Secure Practices
+<ul>
+  <li>💼 Crack a strong tech placement</li>
+  <li>🛠️ Build Data Science + Security projects</li>
+  <li>🛡️ Explore Cybersecurity / Defence Tech</li>
+</ul>
 
-🧰 Tools
+---
 
-Git & GitHub
+<h2>💪 Lifestyle</h2>
 
-VS Code
+<ul>
+  <li>🏋️ Gym (4-day split)</li>
+  <li>⚖️ Goal: Muscle gain + fat loss</li>
+</ul>
 
-Canva / PowerPoint (for technical presentations)
+---
 
-📂 Projects
-🔎 Crime Record Management System (DBMS Project)
+<h2>📊 GitHub Stats</h2>
 
-Designed ER Diagram with proper entities & relationships
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadi-2k7&show_icons=true&theme=tokyonight"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Aadi-2k7&theme=tokyonight"/>
+</p>
 
-Implemented Relational Algebra & Relational Calculus queries
+---
 
-Focus on structured database design and normalization
+<h2>📫 Connect With Me</h2>
 
-📈 Currently Working On
+<p>
+  🔗 GitHub: <a href="https://github.com/Aadi-2k7">Aadi-2k7</a><br>
+  🔗 Email: adityayadav2k7@gmail.com
+</p>
 
-🚀 Advanced B.Tech final year project ideas
+---
 
-📚 Improving DSA for placements
+<h2 align="center">⚡ Personal Note</h2>
 
-🔐 Expanding knowledge in cybersecurity
-
-🎯 Goals
-
-Crack a good tech placement 💼
-
-Build strong projects in Data Science + Security
-
-Explore opportunities in Defence Tech / Cybersecurity roles
-
-💪 Lifestyle
-
-🏋️ Gym enthusiast (4-day split after college)
-
-⚖️ Goal: Gain muscle & reduce body fat
-
-📫 Connect With Me
-
-GitHub: [your username here]
-
-LinkedIn: [add if you want]
-
-⚡ Fun Fact
-
-I prefer clean, readable, and professional visuals in everything I create — especially tech presentations.
+<p align="center">
+  I focus on <b>clean, readable, and professional tech work</b> — whether it's code or presentations.
+</p>
