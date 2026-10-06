@@ -88,14 +88,7 @@
 
 ---
 
-<h2>💪 Lifestyle</h2>
 
-<ul>
-  <li>🏋️ Gym (4-day split)</li>
-  <li>⚖️ Goal: Muscle gain + fat loss</li>
-</ul>
-
----
 
 <h2>📊 GitHub Stats</h2>
 
